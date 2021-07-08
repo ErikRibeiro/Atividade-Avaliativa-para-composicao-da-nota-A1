@@ -1,4 +1,4 @@
-# Atividade-Avaliativa-para-composicao-da-nota-A1
+# Sistema-em-Java-Padrao-MVC
 
 1- Elaborar um programa em java utilizando o Padrão MVC visto em aulasem que o usuário irá digitar em uma tela demonimada vendas o valor de uma venda o programa deve calcular o valor do desconto para cada inserção, serão varias vendas e mostrar ao final:
 
